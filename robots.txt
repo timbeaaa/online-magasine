@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://timbrandt.dk/mag/sitemap.xml
